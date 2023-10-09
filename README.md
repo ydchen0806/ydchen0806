@@ -6,6 +6,10 @@ I'm Yidna Chen, a graduate student at the University of Science and Technology o
 - 🌱 I'm currently on a learning journey, exploring the fascinating world of computer science and technology at USTC.
 - 💞️ I'm actively seeking collaboration opportunities on exciting deep learning projects in the fields of remote sensing and biomedical image processing.
 
+![ydchen0806's GitHub stats](https://github-readme-stats.vercel.app/api?username=ydchen0806&show_icons=true&theme=dark#gh-dark-mode-only)  
+
+<!-- ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ydchen0806&layout=compact&hide_progress=true&theme=dark#gh-dark-mode-only) -->
+
 ## Skills
 
 - 💻 Programming Languages: Python, C++, MATLAB, Mathmatica
