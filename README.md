@@ -6,6 +6,14 @@ I'm Yidna Chen, a graduate student at the University of Science and Technology o
 - 🌱 I'm currently on a learning journey, exploring the fascinating world of computer science and technology at USTC.
 - 💞️ I'm actively seeking collaboration opportunities on exciting deep learning projects in the fields of remote sensing and biomedical image processing.
 
+## Skills
+
+- 💻 Programming Languages: Python, C++, MATLAB, Mathmatica
+- 🧠 Deep Learning Frameworks: TensorFlow, PyTorch
+- 📊 Data Analysis: Pandas, NumPy
+- 🌐 Web Development: HTML, CSS, JavaScript, Vue
+- 🛠️ Tools: Git, Docker
+
 ## Let's Connect
 
 - 📫 You can reach out to me via email at [cyd0806@mail.ustc.edu.cn](mailto:cyd0806@mail.ustc.edu.cn).
