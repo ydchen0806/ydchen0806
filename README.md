@@ -10,6 +10,8 @@ I'm Yinda Chen, a master's student at the University of Science and Technology o
 
 <!-- ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ydchen0806&layout=compact&hide_progress=true&theme=dark#gh-dark-mode-only) -->
 
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ydchen0806&layout=compact&hide_progress=true&theme=dark#gh-dark-mode-only)
+
 ## Skills
 
 - 💻 Programming Languages: Python, C++, MATLAB, Mathmatica
