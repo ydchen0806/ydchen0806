@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Yinda Chen, a graduate student at the University of Science and Technology of China (USTC), majoring in computer science and technology. Here's a little bit about me:
+I'm Yinda Chen, a master's student at the University of Science and Technology of China (USTC), majoring in computer science and technology. Here's a little bit about me:
 
 - 👀 I'm passionate about remote sensing and biomedical image processing.
 - 🌱 I'm currently on a learning journey, exploring the fascinating world of computer science and technology at USTC.
