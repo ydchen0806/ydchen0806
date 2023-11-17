@@ -9,7 +9,7 @@ I'm Yinda Chen, a master's student at the University of Science and Technology o
 - 🎓 I'm also seeking a Ph.D. position for the Fall semester of 2025. If there are any available positions, 🙏 I would be grateful for the chance to further discuss my qualifications. Thank you for your consideration. 🌟
 
 ![ydchen0806's GitHub stats](https://github-readme-stats.vercel.app/api?username=ydchen0806&show_icons=true&theme=dark#gh-dark-mode-only)  
-
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ydchen0806&layout=compact&hide_progress=true&theme=dark#gh-dark-mode-only)
 <!-- ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ydchen0806&layout=compact&hide_progress=true&theme=dark#gh-dark-mode-only) -->
 
 ## Skills
