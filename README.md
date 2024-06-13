@@ -5,7 +5,7 @@ I'm Yinda Chen, a master's student at the University of Science and Technology o
 - 👀 I'm passionate about remote sensing and biomedical image processing.
 - 🌱 I'm currently on a learning journey, exploring the fascinating world of computer science and technology at USTC.
 - 💞️ I'm actively seeking collaboration opportunities on exciting deep learning projects in the fields of remote sensing and biomedical image processing.
-- 📄 You can view my full resume [here](https://ydchen0806.github.io/).
+- 📄 You can view my full resume [here](https://ydchen0806.github.io/). The PDF version of my resume in Chinese is available [here](https://github.com/ydchen0806/ydchen0806/blob/main/ydchen_resume_CN.pdf).
 - 🎓 I'm also seeking a Ph.D. position for the Fall semester of 2025. If there are any available positions, 🙏 I would be grateful for the chance to further discuss my qualifications. Thank you for your consideration. 🌟
 
 ![ydchen0806's GitHub stats](https://github-readme-stats.vercel.app/api?username=ydchen0806&show_icons=true&theme=dark#gh-dark-mode-only)  
