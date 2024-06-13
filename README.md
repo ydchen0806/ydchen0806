@@ -1,15 +1,15 @@
 # Hi there! 👋
 
-I'm Yinda Chen, a master's student at the University of Science and Technology of China (USTC), majoring in computer science and technology. Here's a little bit about me:
+I am Yinda Chen, a master's student in Computer Science and Technology at the University of Science and Technology of China (USTC), currently transitioned to a Ph.D. candidate in Information and Communication Engineering at USTC. Here’s a little bit about me:
 
-- 👀 I'm passionate about remote sensing and biomedical image processing.
-- 🌱 I'm currently on a learning journey, exploring the fascinating world of computer science and technology at USTC.
-- 💞️ I'm actively seeking collaboration opportunities on exciting deep learning projects in the fields of remote sensing and biomedical image processing.
+- 👀 I am passionate about remote sensing and biomedical image processing. My research focuses on self-supervised pretraining and efficient fine-tuning, and I also handle some tasks related to image encoding and compression within my group.
+- 🌱 I am currently exploring the fascinating world of computer science and technology at USTC. My advisors are [Feng Wu](https://scholar.google.com/citations?user=5bInRDEAAAAJ&hl=en) and [Zhiwei Xiong](https://scholar.google.com/citations?user=Snl0HPEAAAAJ&hl=en&oi=ao). I also maintain close collaboration with [Dong Liu](https://scholar.google.com/citations?user=lOWByxoAAAAJ&hl=en), [Li Li](https://scholar.google.com/citations?user=dEm6VKAAAAAJ&hl=en), and have conducted research internships at Imperial College London and the 301 Hospital. My collaborators include [Qionghai Dai](https://scholar.google.com/citations?user=CHAajY4AAAAJ&hl=en&oi=ao) and [Rossella Arcucci](https://scholar.google.com/citations?user=oxy2ZQoAAAAJ&hl=en).
+- 💞️ I am actively seeking collaboration opportunities on exciting deep learning projects in the fields of remote sensing and biomedical image processing.
 - 📄 You can view my full resume [here](https://ydchen0806.github.io/). The PDF version of my resume in Chinese is available [here](https://github.com/ydchen0806/ydchen0806/blob/main/ydchen_resume_CN.pdf).
-- 🎓 I'm also seeking a Ph.D. position for the Fall semester of 2025. If there are any available positions, 🙏 I would be grateful for the chance to further discuss my qualifications. Thank you for your consideration. 🌟
+- 🎓 I am also urgently looking for **research internship positions** related to large model theory, pretraining, and efficient fine-tuning. If there are any available positions, 🙏 I would be grateful for the chance to further discuss my qualifications. Thank you for your consideration. 🌟
 
 ![ydchen0806's GitHub stats](https://github-readme-stats.vercel.app/api?username=ydchen0806&show_icons=true&theme=dark#gh-dark-mode-only)  
-
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ydchen0806&layout=compact&hide_progress=true&theme=dark#gh-dark-mode-only)
 <!-- ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ydchen0806&layout=compact&hide_progress=true&theme=dark#gh-dark-mode-only) -->
 
 ## Skills
