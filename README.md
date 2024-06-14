@@ -11,6 +11,10 @@ I am [Yinda Chen](https://scholar.google.com/citations?user=hCvlj5cAAAAJ&hl=en&o
 ![ydchen0806's GitHub stats](https://github-readme-stats.vercel.app/api?username=ydchen0806&show_icons=true&theme=dark#gh-dark-mode-only)  
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ydchen0806&layout=compact&hide_progress=true&theme=dark#gh-dark-mode-only)
 <!-- ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ydchen0806&layout=compact&hide_progress=true&theme=dark#gh-dark-mode-only) -->
+<details>
+  <summary>Profile views</summary>
+  <img src="https://komarev.com/ghpvc/?username=ydchen0806" alt="Profile views">
+</details>
 
 ## Skills
 
