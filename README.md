@@ -8,13 +8,11 @@ I am [Yinda Chen](https://scholar.google.com/citations?user=hCvlj5cAAAAJ&hl=en&o
 - 📄 You can view my full resume [here](https://ydchen0806.github.io/). The PDF version of my resume in Chinese is available [here](https://github.com/ydchen0806/ydchen0806/blob/main/ydchen_resume_CN.pdf).
 - 🎓 I am also urgently looking for **research internship positions** related to large model theory, pretraining, and efficient fine-tuning. If there are any available positions, 🙏 I would be grateful for the chance to further discuss my qualifications. Thank you for your consideration. 🌟
 
+![Profile views](https://komarev.com/ghpvc/?username=ydchen0806)
+
 ![ydchen0806's GitHub stats](https://github-readme-stats.vercel.app/api?username=ydchen0806&show_icons=true&theme=dark#gh-dark-mode-only)  
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ydchen0806&layout=compact&hide_progress=true&theme=dark#gh-dark-mode-only)
 <!-- ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ydchen0806&layout=compact&hide_progress=true&theme=dark#gh-dark-mode-only) -->
-<details>
-  <summary>Profile views</summary>
-  <img src="https://komarev.com/ghpvc/?username=ydchen0806" alt="Profile views">
-</details>
 
 ## Skills
 
