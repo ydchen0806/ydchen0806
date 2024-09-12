@@ -33,7 +33,7 @@ Feel free to drop me an email to discuss potential collaborations, share your id
 
 ## External Links
 
-- [Google Scholar](https://scholar.google.com/citations?user=hCvlj5cAAAAJ&hl=zh-CN&oi=ao)
+- [Google Scholar](https://scholar.google.com/citations?user=hCvlj5cAAAAJ&hl=en&oi=ao)
 - [Kaggle](https://www.kaggle.com/yindachen/Home)
 - [Linkin](https://www.linkedin.com/in/%E8%83%A4%E8%BE%BE-%E9%99%88-37632a200/)
 - [知乎](https://www.zhihu.com/people/qi-zhu-dou-feng-67-82)
