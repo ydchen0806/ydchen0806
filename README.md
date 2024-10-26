@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I am [Yinda Chen](https://ydchen0806.github.io/), a Ph.D. candidate in Information and Communication Engineering at the University of Science and Technology of China (USTC). Here's a little bit about me:
+I am [Yinda Chen](https://ydchen0806.github.io/), a Ph.D. candidate jointly trained by the University of Science and Technology of China (USTC) and Shanghai AI Lab, specializing in Information and Communication Engineering. Here's a little bit about me:
 
 - 👀 I am passionate about representation learning theory and biomedical image processing. My research focuses on self-supervised pretraining and efficient fine-tuning, and I also handle some tasks related to image encoding and compression within my group.
 - 🌱 I am currently exploring the fascinating world of computer science and technology at USTC. My advisors are [Feng Wu](https://scholar.google.com/citations?user=5bInRDEAAAAJ&hl=en) and [Zhiwei Xiong](https://scholar.google.com/citations?user=Snl0HPEAAAAJ&hl=en&oi=ao). I also maintain close collaboration with [Dong Liu](https://scholar.google.com/citations?user=lOWByxoAAAAJ&hl=en), [Li Li](https://scholar.google.com/citations?user=dEm6VKAAAAAJ&hl=en), and have conducted research internships at Imperial College London and the 301 Hospital. My collaborators include [Qionghai Dai](https://scholar.google.com/citations?user=CHAajY4AAAAJ&hl=en&oi=ao) and [Rossella Arcucci](https://scholar.google.com/citations?user=oxy2ZQoAAAAJ&hl=en).
