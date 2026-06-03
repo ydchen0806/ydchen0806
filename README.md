@@ -6,7 +6,7 @@ I am [**Yinda Chen (陈胤达)**](https://ydchen0806.github.io/), a Ph.D. candid
 
 - 🧭 **Advisors:** [Feng Wu](https://scholar.google.com/citations?user=5bInRDEAAAAJ&hl=en) & [Zhiwei Xiong](https://scholar.google.com/citations?user=Snl0HPEAAAAJ&hl=en) (USTC); co-supervised by [Xiaoou Tang](https://scholar.google.com/citations?user=qpBtpGsAAAAJ&hl=en) (Shanghai AI Lab).
 
-- 🌱 **Now:** core member at [Beijing Humanoid Robot Innovation Center (UBTECH)](https://www.x-humanoid.com/) (embodied world models); since **May 2026** also at [**Ubiquant (九坤投资)**](https://www.ubiquant.com/) (quantitative research & large models, 10k-GPU clusters). **Before:** *Qingyun* intern at **Tencent IEG** (*Honor of Kings – Lingbao*).
+- 🌱 [**Ubiquant (九坤投资)**](https://www.ubiquant.com/) (quantitative research & large models, since **May 2026**); [Beijing Humanoid Robot Innovation Center (UBTECH)](https://www.x-humanoid.com/) (embodied world models); formerly *Qingyun* intern at **Tencent IEG** (*Honor of Kings – Lingbao*).
 
 - 💞️ Dual bachelor's (*Environmental Ecological Engineering* & *Economics*, Xiamen University); got into AI via [WISERCLUB](https://github.com/wise-r).
 
