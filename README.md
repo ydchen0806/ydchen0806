@@ -12,7 +12,7 @@ I am [**Yinda Chen (陈胤达)**](https://ydchen0806.github.io/), a Ph.D. candid
 
 - 📝 Thanks to the generous guidance of my mentors and the support of amazing collaborators, I've been fortunate to publish papers [![Google Scholar](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ydchen0806/ydchen0806.github.io/google-scholar-stats/gs_data_shieldsio.json&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=hCvlj5cAAAAJ&hl=en) at conferences including **ICLR**, **ICML**, **ICCV**, **NeurIPS**, **AAAI**, **ACL**, **IJCAI**, and **MICCAI**, and journals including **TPAMI**, **TMI**, and **JBHI**.
 
-- 📄 My CV is available in [Chinese](https://ydchen0806.github.io/docs/cyd_resume_CN.pdf) and [English](https://ydchen0806.github.io/docs/CYD_resume_EN.pdf). See my full [homepage](https://ydchen0806.github.io/) for publications, news, and more.
+- 📄 My CV is available in [Chinese](https://ydchen0806.github.io/docs/cyd_resume_CN.pdf) ([mirror](https://github.com/ydchen0806/ydchen0806/blob/main/cyd_resume_CN.pdf)) and [English](https://ydchen0806.github.io/docs/CYD_resume_EN.pdf) ([mirror](https://github.com/ydchen0806/ydchen0806/blob/main/CYD_resume_EN.pdf)). See my full [homepage](https://ydchen0806.github.io/) for publications, news, and more.
 
 I know my talents may not match those of many brilliant pioneers in this field, but I believe in the power of continuous learning and genuine collaboration. I'm always eager to exchange ideas, seek advice from the community, and help those who are just starting their research journey. Please feel free to reach out—I'd be truly honored to connect, collaborate, or simply share thoughts about research! 🌟
 
@@ -56,4 +56,4 @@ Feel free to drop me an email to discuss potential collaborations, share your id
 - [LinkedIn](https://www.linkedin.com/in/%E8%83%A4%E8%BE%BE-%E9%99%88-37632a200/)
 - [知乎](https://www.zhihu.com/people/qi-zhu-dou-feng-67-82)
 - [WeChat QR code](https://github.com/ydchen0806/ydchen0806/blob/main/wechat_QRcode.png)
-- CV: [Chinese](https://ydchen0806.github.io/docs/cyd_resume_CN.pdf) · [English](https://ydchen0806.github.io/docs/CYD_resume_EN.pdf)
+- CV: [Chinese](https://ydchen0806.github.io/docs/cyd_resume_CN.pdf) · [English](https://ydchen0806.github.io/docs/CYD_resume_EN.pdf) · [Chinese (mirror)](https://github.com/ydchen0806/ydchen0806/blob/main/cyd_resume_CN.pdf) · [English (mirror)](https://github.com/ydchen0806/ydchen0806/blob/main/CYD_resume_EN.pdf)
