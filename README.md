@@ -4,7 +4,7 @@ I am [**Yinda Chen (陈胤达)**](https://ydchen0806.github.io/), a Ph.D. candid
 
 - 👀 **Research:** multimodal understanding and generation, toward a unified framework across vision and other modalities.
 
-- 🧭 **Advisors:** [Feng Wu (吴枫)](https://scholar.google.com/citations?user=5bInRDEAAAAJ&hl=en) & [Zhiwei Xiong (熊志伟)](https://scholar.google.com/citations?user=Snl0HPEAAAAJ&hl=en) (USTC); co-supervised by [Xiaoou Tang (汤晓鸥)](https://scholar.google.com/citations?user=qpBtpGsAAAAJ&hl=en) (Shanghai AI Lab).
+- 🧭 **Advisors:** [Feng Wu (吴枫, CAE Academician, IEEE Fellow)](https://scholar.google.com/citations?user=5bInRDEAAAAJ&hl=en) & [Zhiwei Xiong (熊志伟)](https://scholar.google.com/citations?user=Snl0HPEAAAAJ&hl=en) (USTC); co-supervised by [Xiaoou Tang (汤晓鸥, IEEE Fellow)](https://scholar.google.com/citations?user=qpBtpGsAAAAJ&hl=en) (Shanghai AI Lab).
 
 - 🌱 [**Ubiquant (九坤投资)**](https://www.ubiquant.com/) (quantitative research & large models, since **May 2026**); [Beijing Humanoid Robot Innovation Center (UBTECH)](https://www.x-humanoid.com/) (embodied world models); formerly *Qingyun* intern at **Tencent IEG** (*Honor of Kings – Lingbao*).
 
